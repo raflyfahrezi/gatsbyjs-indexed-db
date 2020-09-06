@@ -1,0 +1,12 @@
+.title {
+    width: 100%;
+    
+    padding: 50px;
+
+    text-align: center;
+}
+
+.title p {
+    font-family: 'Grandstander', cursive;
+    font-size: 30px;
+}

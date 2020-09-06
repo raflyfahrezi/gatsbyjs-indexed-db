@@ -1,0 +1,15 @@
+.addingPeople {
+    width: 100%;
+    max-width: 400px;
+
+    margin: 50px auto;
+}
+
+.separator {
+    margin: 20px 0;
+}
+
+.button {
+    margin: 20px 0;
+    text-align: center;
+}

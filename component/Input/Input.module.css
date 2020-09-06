@@ -1,0 +1,18 @@
+.input {
+    display: flex;
+    flex-direction: column;
+}
+
+.input label {
+    font-family: 'Grandstander', cursive;
+
+    margin-bottom: 10px;
+}
+
+.input input {
+    font-family: 'Grandstander', cursive;
+
+    padding: 10px;
+
+    outline: none;
+}
